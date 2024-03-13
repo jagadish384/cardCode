@@ -1,0 +1,9 @@
+body {
+  text-align: center;
+}
+.user-image {
+  height: 150px;
+  aspect-ratio: 1/1;
+  border-radius: 70px;
+  object-fit: cover;
+}
